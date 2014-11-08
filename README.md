@@ -20,3 +20,7 @@ With admintools, something like that will be possible
 
     $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 $(dnames -g PC-Group1 -c -d " ")
 
+Video?
+------
+Yes, there is a little shitty screencast on the internet.
+https://www.youtube.com/watch?v=-4AZ5M6YlXk
