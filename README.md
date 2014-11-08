@@ -7,8 +7,8 @@ Usage
 -----
 Add the script's directory to your PATH and just type in the following
 
-  $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 your.pc.one your.pc.two your.pc.three
-  
+    $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 your.pc.one your.pc.two your.pc.three
+
 Enjoy...
 
 Useful optional dependencies
@@ -18,5 +18,5 @@ https://github.com/forflo/admintools
 
 With admintools, something like that will be possible
 
-  $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 $(dnames -g PC-Group1 -c -d " ")
+    $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 $(dnames -g PC-Group1 -c -d " ")
 
