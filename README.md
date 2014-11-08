@@ -16,7 +16,7 @@ Useful optional dependencies
 Try out my admintools package available here:
 https://github.com/forflo/admintools
 
-With admintools, something like that will be possible
+With admintools, something like the following will be possible:
 
     $ cterm.scpt -u root -p 22 -c 4 -w 170 -h 40 $(dnames -g PC-Group1 -c -d " ")
 
