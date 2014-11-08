@@ -11,10 +11,11 @@
 --
 -- Known limitations:
 --   As you may have noticed, the script does not
---   provide a method where you can put in your
---   computernames by using stdin.
---   This is because osascript aggressively closes
---   stdin. (see: https://groups.google.com/forum/#!msg/alt.comp.lang.applescript/1v0s0Tkn1bM/UBdqNBNoulwJ
+--   provide a method for putting your
+--   computernames in by using stdin.
+--   This is because osascript unfortunately 
+--   aggressively closes this filedescriptor. 
+--   (see: https://groups.google.com/forum/#!msg/alt.comp.lang.applescript/1v0s0Tkn1bM/UBdqNBNoulwJ
 --   and http://stackoverflow.com/questions/13973347/how-applescript-can-get-stdin-inside-the-code)
 ----
 
