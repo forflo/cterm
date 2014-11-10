@@ -22,5 +22,5 @@ With admintools, something like the following will be possible:
 
 Video?
 ------
-Yes, there is a little shitty screencast on the internet.
+Yes, there is a shitty little screencast on the internet.
 https://www.youtube.com/watch?v=-4AZ5M6YlXk
